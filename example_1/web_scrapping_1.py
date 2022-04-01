@@ -1,4 +1,6 @@
 import requests
+import time
+
 from bs4 import BeautifulSoup
 
 # ----- SETTING UP THE REQUEST -----
@@ -34,6 +36,17 @@ with open('bike_list_page.html', 'r', encoding="utf-8") as file:
 #   id
 #   tag name
 #   XPATH (the worst -> hardcoded path)
+
+link_list = []
+
 mtb_categories = soup.select('.sidebarBlock>ul>.navList-item>a')
 for item in mtb_categories:
+    link_list.append(item['href'])
     print(item['href'])
+
+for i, link in enumerate(link_list):
+    print('link: ' + link + ' ' + str(i))
+    time.sleep(1.0)
+    response_result = requests.get(url=url, headers=headers,cookies=cookies_jar)
+    with open(f'bike_pages/cat_{i}.html', 'w', encoding='utf-8') as html_file:
+        html_file.write(response_result.text)
