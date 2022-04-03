@@ -1,0 +1,518 @@
+{
+    "Categories": [
+        {
+            "Name": "Bianchi",
+            "Bikes": [
+                {
+                    "ID": 0,
+                    "link": "https://revolutionbikeshop.com/2021-duel-27s-alivio-2x9sp/",
+                    "name": "2022 BIANCHI DUEL 27S ALIVIO 2X9SP YRBC7, $1,000.00\n\n",
+                    "price": "$1,000.00"
+                },
+                {
+                    "ID": 1,
+                    "link": "https://revolutionbikeshop.com/2021-duel-29s-alivio-2x9sp/",
+                    "name": "2022 BIANCHI DUEL 29S ALIVIO 2X9SP YRBC8, $1,000.00\n\n",
+                    "price": "$1,000.00"
+                },
+                {
+                    "ID": 2,
+                    "link": "https://revolutionbikeshop.com/2021-methanol-cv-fs-9-3-xt-slx-1x12sp/",
+                    "name": "2022 BIANCHI METHANOL CV FS 9.3 XT/SLX 1X12SP YRBS9, $6,650.00\n\n",
+                    "price": "$6,650.00"
+                },
+                {
+                    "ID": 3,
+                    "link": "https://revolutionbikeshop.com/2021-methanol-cv-fs-9-2-xtr-xt-1x12sp/",
+                    "name": "2022 BIANCHI METHANOL CV FS 9.2 XTR/XT 1X12SP YRBP6, $8,200.00\n\n",
+                    "price": "$8,200.00"
+                }
+            ]
+        },
+        {
+            "Name": "BMC",
+            "Bikes": [
+                {
+                    "ID": 4,
+                    "link": "https://revolutionbikeshop.com/2022-blast-20/",
+                    "name": "2022 BMC Blast 20, $599.00\n\n",
+                    "price": "$599.00"
+                },
+                {
+                    "ID": 5,
+                    "link": "https://revolutionbikeshop.com/2022-bmc-twostroke-al-green-black/",
+                    "name": "2022 BMC TWOSTROKE AL GREEN BLACK, $739.00\n\n",
+                    "price": "$739.00"
+                },
+                {
+                    "ID": 6,
+                    "link": "https://revolutionbikeshop.com/2022-bmc-twostroke-al-kids-grey-black/",
+                    "name": "2022 BMC TWOSTROKE AL KIDS GREY / BLACK, $759.00\n\n",
+                    "price": "$759.00"
+                },
+                {
+                    "ID": 7,
+                    "link": "https://revolutionbikeshop.com/2022-blast-27/",
+                    "name": "2022 BMC BLAST 27, $799.00\n\n",
+                    "price": "$799.00"
+                },
+                {
+                    "ID": 8,
+                    "link": "https://revolutionbikeshop.com/2022-bmc-twostroke-al-grey-black/",
+                    "name": "2022 BMC TWOSTROKE AL GREY / BLACK, $1,049.00\n\n",
+                    "price": "$1,049.00"
+                },
+                {
+                    "ID": 9,
+                    "link": "https://revolutionbikeshop.com/2022-twostroke-al-two/",
+                    "name": "2022 BMC Twostroke AL TWO, $1,199.00\n\n",
+                    "price": "$1,199.00"
+                },
+                {
+                    "ID": 10,
+                    "link": "https://revolutionbikeshop.com/2022-bmc-twostroke-al-white/",
+                    "name": "2022 BMC TWOSTROKE AL WHITE, $1,199.00\n\n",
+                    "price": "$1,199.00"
+                },
+                {
+                    "ID": 11,
+                    "link": "https://revolutionbikeshop.com/2022-bmc-twostroke-al-red/",
+                    "name": "2022 BMC TWOSTROKE AL RED, $1,399.00\n\n",
+                    "price": "$1,399.00"
+                },
+                {
+                    "ID": 12,
+                    "link": "https://revolutionbikeshop.com/2022-bmc-twostroke-al-black-brushed/",
+                    "name": "2022 BMC TWOSTROKE AL BLACK BRUSHED, $1,599.00\n\n",
+                    "price": "$1,599.00"
+                },
+                {
+                    "ID": 13,
+                    "link": "https://revolutionbikeshop.com/2021-twostroke-al-one/",
+                    "name": "2022 BMC Twostroke AL One, $1,599.00\n\n",
+                    "price": "$1,599.00"
+                },
+                {
+                    "ID": 14,
+                    "link": "https://revolutionbikeshop.com/2022-bmc-twostroke-al/",
+                    "name": "2022 BMC TWOSTROKE AL, $1,799.00\n\n",
+                    "price": "$1,799.00"
+                },
+                {
+                    "ID": 15,
+                    "link": "https://revolutionbikeshop.com/2022-bmc-twostroke-al-green/",
+                    "name": "2022 BMC TWOSTROKE AL GREEN, $1,999.00\n\n",
+                    "price": "$1,999.00"
+                }
+            ]
+        },
+        {
+            "Name": "Intense",
+            "Bikes": [
+                {
+                    "ID": 16,
+                    "link": "https://revolutionbikeshop.com/2021-carbine/",
+                    "name": "2022 Intense Carbine Bike, Price range from $2,999.00 to $6,299.00\n\n",
+                    "price": "$2,999.00 - $6,299.00"
+                },
+                {
+                    "ID": 17,
+                    "link": "https://revolutionbikeshop.com/2021-primer-275/",
+                    "name": "2022 Intense Primer 275 Bike, Price range from $2,999.00 to $6,099.00\n\n",
+                    "price": "$2,999.00 - $6,099.00"
+                },
+                {
+                    "ID": 18,
+                    "link": "https://revolutionbikeshop.com/2021-primer-29/",
+                    "name": "2022 Intense Primer 29 Bike, Price range from $2,999.00 to $6,099.00\n\n",
+                    "price": "$2,999.00 - $6,099.00"
+                },
+                {
+                    "ID": 19,
+                    "link": "https://revolutionbikeshop.com/2021-sniper-t/",
+                    "name": "2022 Intense Sniper T Bike, Price range from $2,999.00 to $7,499.00\n\n",
+                    "price": "$2,999.00 - $7,499.00"
+                },
+                {
+                    "ID": 20,
+                    "link": "https://revolutionbikeshop.com/2021-sniper-xc/",
+                    "name": "2022 Intense Sniper XC Bike, Price range from $2,999.00 to $5,999.00\n\n",
+                    "price": "$2,999.00 - $5,999.00"
+                },
+                {
+                    "ID": 21,
+                    "link": "https://revolutionbikeshop.com/2021-tracer/",
+                    "name": "2022 Intense Tracer Bike, Price range from $2,999.00 to $6,299.00\n\n",
+                    "price": "$2,999.00 - $6,299.00"
+                },
+                {
+                    "ID": 22,
+                    "link": "https://revolutionbikeshop.com/2021-m29/",
+                    "name": "2022 Intense M29 Bike, Price range from $3,299.00 to $7,699.00\n\n",
+                    "price": "$3,299.00 - $7,699.00"
+                },
+                {
+                    "ID": 23,
+                    "link": "https://revolutionbikeshop.com/2021-primer-s/",
+                    "name": "2022 Intense Primer S Bike, Price range from $3,299.00 to $6,299.00\n\n",
+                    "price": "$3,299.00 - $6,299.00"
+                },
+                {
+                    "ID": 24,
+                    "link": "https://revolutionbikeshop.com/2022-intense-951-series-xc/",
+                    "name": "2022 Intense 951 SERIES XC, $3,899.00\n\n",
+                    "price": "$3,899.00"
+                },
+                {
+                    "ID": 25,
+                    "link": "https://revolutionbikeshop.com/2022-intense-951-series-trail/",
+                    "name": "2022 Intense 951 SERIES TRAIL, $3,999.00\n\n",
+                    "price": "$3,999.00"
+                },
+                {
+                    "ID": 26,
+                    "link": "https://revolutionbikeshop.com/2021-sniper-fro/",
+                    "name": "2022 Intense Sniper FRO Bike, $8,999.00\n\n",
+                    "price": "$8,999.00"
+                }
+            ]
+        },
+        {
+            "Name": "Marin",
+            "Bikes": [
+                {
+                    "ID": 27,
+                    "link": "https://revolutionbikeshop.com/2021-alcatraz-frame-kit/",
+                    "name": "2022 Marin Alcatraz Frame Kit, $549.00\n\n",
+                    "price": "$549.00"
+                },
+                {
+                    "ID": 28,
+                    "link": "https://revolutionbikeshop.com/2021-san-quentin-3-frame-kit/",
+                    "name": "2022 Marin San Quentin 3 Frame Kit, $549.00\n\n",
+                    "price": "$549.00"
+                },
+                {
+                    "ID": 29,
+                    "link": "https://revolutionbikeshop.com/2021-bolinas-ridge-1/",
+                    "name": "2022 Marin Bolinas Ridge 1, $599.00\n\n",
+                    "price": "$599.00"
+                },
+                {
+                    "ID": 30,
+                    "link": "https://revolutionbikeshop.com/2021-wildcat-trail-1/",
+                    "name": "2022 Marin Wildcat Trail 1, $599.00\n\n",
+                    "price": "$599.00"
+                },
+                {
+                    "ID": 31,
+                    "link": "https://revolutionbikeshop.com/2021-bolinas-ridge-2/",
+                    "name": "2022 Marin Bolinas Ridge 2, $699.00\n\n",
+                    "price": "$699.00"
+                },
+                {
+                    "ID": 32,
+                    "link": "https://revolutionbikeshop.com/2021-bobcat-trail-3/",
+                    "name": "2022 Marin Bobcat Trail 3, $819.00\n\n",
+                    "price": "$819.00"
+                },
+                {
+                    "ID": 33,
+                    "link": "https://revolutionbikeshop.com/2021-wildcat-trail-3/",
+                    "name": "2022 Marin Wildcat Trail 3, $819.00\n\n",
+                    "price": "$819.00"
+                },
+                {
+                    "ID": 34,
+                    "link": "https://revolutionbikeshop.com/2021-bobcat-trail-4/",
+                    "name": "2022 Marin Bobcat Trail 4, $919.00\n\n",
+                    "price": "$919.00"
+                },
+                {
+                    "ID": 35,
+                    "link": "https://revolutionbikeshop.com/2021-el-roy-frame-kit/",
+                    "name": "2022 Marin El Roy Frame Kit, $1,099.00\n\n",
+                    "price": "$1,099.00"
+                },
+                {
+                    "ID": 36,
+                    "link": "https://revolutionbikeshop.com/2021-san-quentin-1/",
+                    "name": "2022 Marin San Quentin 1, $1,099.00\n\n",
+                    "price": "$1,099.00"
+                },
+                {
+                    "ID": 37,
+                    "link": "https://revolutionbikeshop.com/2021-bobcat-trail-5/",
+                    "name": "2022 Marin Bobcat Trail 5, $1,129.00\n\n",
+                    "price": "$1,129.00"
+                },
+                {
+                    "ID": 38,
+                    "link": "https://revolutionbikeshop.com/2021-wildcat-trail-5/",
+                    "name": "2022 Marin Wildcat Trail 5, $1,129.00\n\n",
+                    "price": "$1,129.00"
+                }
+            ]
+        },
+        {
+            "Name": "Niner",
+            "Bikes": [
+                {
+                    "ID": 39,
+                    "link": "https://revolutionbikeshop.com/2021-air-9/",
+                    "name": "2022 Niner AIR 9 Bike, $699.00\n\n",
+                    "price": "$699.00"
+                },
+                {
+                    "ID": 40,
+                    "link": "https://revolutionbikeshop.com/2021-sir-9/",
+                    "name": "2022 Niner SIR 9 Bike, $1,399.00\n\n",
+                    "price": "$1,399.00"
+                },
+                {
+                    "ID": 41,
+                    "link": "https://revolutionbikeshop.com/2021-air-9-rdo/",
+                    "name": "2022 Niner AIR 9 RDO Bike, $2,299.00\n\n",
+                    "price": "$2,299.00"
+                },
+                {
+                    "ID": 42,
+                    "link": "https://revolutionbikeshop.com/2021-jet-9-rdo/",
+                    "name": "2022 Niner JET 9 RDO Bike, $3,499.00\n\n",
+                    "price": "$3,499.00"
+                },
+                {
+                    "ID": 43,
+                    "link": "https://revolutionbikeshop.com/2021-rkt-9-rdo/",
+                    "name": "2022 Niner RKT 9 RDO Bike, $3,499.00\n\n",
+                    "price": "$3,499.00"
+                },
+                {
+                    "ID": 44,
+                    "link": "https://revolutionbikeshop.com/2021-rkt-9-rdo-rs/",
+                    "name": "2022 Niner RKT 9 RDO RS Bike, $3,499.00\n\n",
+                    "price": "$3,499.00"
+                },
+                {
+                    "ID": 45,
+                    "link": "https://revolutionbikeshop.com/2021-rip-9-rdo-27-5/",
+                    "name": "2022 Niner RIP 9 RDO 27.5 Bike, $3,699.00\n\n",
+                    "price": "$3,699.00"
+                },
+                {
+                    "ID": 46,
+                    "link": "https://revolutionbikeshop.com/2021-rip-9-rdo-29/",
+                    "name": "2022 Niner RIP 9 RDO 29 Bike, $3,699.00\n\n",
+                    "price": "$3,699.00"
+                },
+                {
+                    "ID": 47,
+                    "link": "https://revolutionbikeshop.com/2021-wfo-9-rdo/",
+                    "name": "2022 Niner WFO 9 RDO Bike, $3,699.00\n\n",
+                    "price": "$3,699.00"
+                }
+            ]
+        },
+        {
+            "Name": "Salsa",
+            "Bikes": [
+                {
+                    "ID": 48,
+                    "link": "https://revolutionbikeshop.com/2021-timberjack-frame/",
+                    "name": "2022 Salsa Timberjack Frame, $649.00\n\n",
+                    "price": "$649.00"
+                },
+                {
+                    "ID": 49,
+                    "link": "https://revolutionbikeshop.com/2022-salsa-rangefinder-advent-x-27-5/",
+                    "name": "2022 Salsa Rangefinder Advent X 27.5+, $1,049.00\n\n",
+                    "price": "$1,049.00"
+                },
+                {
+                    "ID": 50,
+                    "link": "https://revolutionbikeshop.com/2022-salsa-rangefinder-advent-x-29/",
+                    "name": "2022 Salsa Rangefinder Advent X 29, $1,049.00\n\n",
+                    "price": "$1,049.00"
+                },
+                {
+                    "ID": 51,
+                    "link": "https://revolutionbikeshop.com/2022-salsa-rangefinder-deore-10-27-5/",
+                    "name": "2022 Salsa Rangefinder Deore 10 27.5+, $1,049.00\n\n",
+                    "price": "$1,049.00"
+                },
+                {
+                    "ID": 52,
+                    "link": "https://revolutionbikeshop.com/2022-salsa-rangefinder-deore-10-29/",
+                    "name": "2022 Salsa Rangefinder Deore 10 29, $1,049.00\n\n",
+                    "price": "$1,049.00"
+                },
+                {
+                    "ID": 53,
+                    "link": "https://revolutionbikeshop.com/2022-salsa-rangefinder-deore-11-27-5/",
+                    "name": "2022 Salsa Rangefinder Deore 11 27.5+, $1,399.00\n\n",
+                    "price": "$1,399.00"
+                },
+                {
+                    "ID": 54,
+                    "link": "https://revolutionbikeshop.com/2022-salsa-rangefinder-deore-11-29/",
+                    "name": "2022 Salsa Rangefinder Deore 11 29, $1,399.00\n\n",
+                    "price": "$1,399.00"
+                },
+                {
+                    "ID": 55,
+                    "link": "https://revolutionbikeshop.com/2022-salsa-rangefinder-deore-12-27-5/",
+                    "name": "2022 Salsa Rangefinder Deore 12 27.5+, $1,599.00\n\n",
+                    "price": "$1,599.00"
+                },
+                {
+                    "ID": 56,
+                    "link": "https://revolutionbikeshop.com/2022-salsa-rangefinder-deore-12-29/",
+                    "name": "2022 Salsa Rangefinder Deore 12 29, $1,599.00\n\n",
+                    "price": "$1,599.00"
+                },
+                {
+                    "ID": 57,
+                    "link": "https://revolutionbikeshop.com/2021-timberjack-single-speed-27-5/",
+                    "name": "2022 Salsa Timberjack Single Speed 27.5+, $1,699.00\n\n",
+                    "price": "$1,699.00"
+                },
+                {
+                    "ID": 58,
+                    "link": "https://revolutionbikeshop.com/2021-timberjack-single-speed-29/",
+                    "name": "2022 Salsa Timberjack Single Speed 29, $1,699.00\n\n",
+                    "price": "$1,699.00"
+                },
+                {
+                    "ID": 59,
+                    "link": "https://revolutionbikeshop.com/2021-timberjack-slx-27-5/",
+                    "name": "2022 Salsa Timberjack SLX 27.5+, $1,799.00\n\n",
+                    "price": "$1,799.00"
+                }
+            ]
+        },
+        {
+            "Name": "Scott",
+            "Bikes": [
+                {
+                    "ID": 60,
+                    "link": "https://revolutionbikeshop.com/2022-scott-spark-900-ultimate-evo-axs-bike/",
+                    "name": "2022 Scott Spark 900 Ultimate Evo Axs Bike, $13,999.99\n\n",
+                    "price": "$13,999.99"
+                },
+                {
+                    "ID": 61,
+                    "link": "https://revolutionbikeshop.com/2022-scott-spark-rc-sl-evo-axs-bike/",
+                    "name": "2022 Scott Spark RC SL Evo Axs Bike, $13,999.99\n\n",
+                    "price": "$13,999.99"
+                },
+                {
+                    "ID": 62,
+                    "link": "https://revolutionbikeshop.com/2022-scott-spark-rc-world-cup-evo-axs-bike/",
+                    "name": "2022 Scott Spark RC World Cup Evo Axs Bike, $10,499.99\n\n",
+                    "price": "$10,499.99"
+                },
+                {
+                    "ID": 63,
+                    "link": "https://revolutionbikeshop.com/2022-scott-contessa-spark-rc-world-cup-bike/",
+                    "name": "2022 Scott Contessa Spark RC World Cup Bike, $8,999.99\n\n",
+                    "price": "$8,999.99"
+                },
+                {
+                    "ID": 64,
+                    "link": "https://revolutionbikeshop.com/2022-scott-patron-eride-900-tuned-bike-286507/",
+                    "name": "2022 Scott Patron Eride 900 Tuned Bike 286507, $8,999.99\n\n",
+                    "price": "$8,999.99"
+                },
+                {
+                    "ID": 65,
+                    "link": "https://revolutionbikeshop.com/2022-scott-spark-rc-world-cup-axs-bike/",
+                    "name": "2022 Scott Spark RC World Cup Axs Bike, $8,999.99\n\n",
+                    "price": "$8,999.99"
+                },
+                {
+                    "ID": 66,
+                    "link": "https://revolutionbikeshop.com/2022-scott-spark-rc-pro-bike/",
+                    "name": "2022 Scott Spark RC Pro Bike, $7,799.99\n\n",
+                    "price": "$7,799.99"
+                },
+                {
+                    "ID": 67,
+                    "link": "https://revolutionbikeshop.com/2022-scott-scale-rc-world-cup-axs-bike/",
+                    "name": "2022 Scott Scale RC World Cup Axs Bike, $7,299.99\n\n",
+                    "price": "$7,299.99"
+                },
+                {
+                    "ID": 68,
+                    "link": "https://revolutionbikeshop.com/2022-scott-spark-900-axs-bike/",
+                    "name": "2022 Scott Spark 900 Axs Bike, $6,999.99\n\n",
+                    "price": "$6,999.99"
+                },
+                {
+                    "ID": 69,
+                    "link": "https://revolutionbikeshop.com/2022-scott-strike-eride-910-bike-286494/",
+                    "name": "2022 Scott Strike Eride 910 Bike 286494, $6,999.99\n\n",
+                    "price": "$6,999.99"
+                },
+                {
+                    "ID": 70,
+                    "link": "https://revolutionbikeshop.com/2022-scott-genius-eride-910-bike-286502/",
+                    "name": "2022 Scott Genius Eride 910 Bike 286502, $6,499.99\n\n",
+                    "price": "$6,499.99"
+                },
+                {
+                    "ID": 71,
+                    "link": "https://revolutionbikeshop.com/2022-scott-patron-eride-920-bike-black-286510/",
+                    "name": "2022 Scott Patron Eride 920 Bike Black 286510, $6,499.99\n\n",
+                    "price": "$6,499.99"
+                }
+            ]
+        },
+        {
+            "Name": "Yeti",
+            "Bikes": [
+                {
+                    "ID": 72,
+                    "link": "https://revolutionbikeshop.com/2022-yeti-arc/",
+                    "name": "2022 YETI ARC, $2,100.00\n\n",
+                    "price": "$2,100.00"
+                },
+                {
+                    "ID": 73,
+                    "link": "https://revolutionbikeshop.com/2022-yeti-sb115/",
+                    "name": "2022 YETI SB115, $4,000.00\n\n",
+                    "price": "$4,000.00"
+                },
+                {
+                    "ID": 74,
+                    "link": "https://revolutionbikeshop.com/2022-yeti-sb130/",
+                    "name": "2022 YETI SB130, $4,200.00\n\n",
+                    "price": "$4,200.00"
+                },
+                {
+                    "ID": 75,
+                    "link": "https://revolutionbikeshop.com/2022-yeti-sb140/",
+                    "name": "2022 YETI SB140, $4,200.00\n\n",
+                    "price": "$4,200.00"
+                },
+                {
+                    "ID": 76,
+                    "link": "https://revolutionbikeshop.com/2022-yeti-sb150/",
+                    "name": "2022 YETI SB150, $4,700.00\n\n",
+                    "price": "$4,700.00"
+                },
+                {
+                    "ID": 77,
+                    "link": "https://revolutionbikeshop.com/2022-yeti-sb165/",
+                    "name": "2022 YETI SB165, $5,000.00\n\n",
+                    "price": "$5,000.00"
+                },
+                {
+                    "ID": 78,
+                    "link": "https://revolutionbikeshop.com/2022-yeti-160-e/",
+                    "name": "2022 YETI 160 E, $10,700.00\n\n",
+                    "price": "$10,700.00"
+                }
+            ]
+        }
+    ]
+}

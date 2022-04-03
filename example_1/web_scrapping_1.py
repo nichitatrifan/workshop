@@ -1,5 +1,6 @@
 import requests
 import time
+import json
 
 from bs4 import BeautifulSoup
 
@@ -99,4 +100,5 @@ for i in range(count):
     # with organized data
     my_dict['Categories'].append(dict(category))
     
-print(my_dict)
+with open('data.json', 'w', encoding="utf-8") as file:
+        json.dump(my_dict, file, indent=4, ensure_ascii=False)
