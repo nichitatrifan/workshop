@@ -99,6 +99,7 @@ for i in range(count):
     # saving dictionary
     # with organized data
     my_dict['Categories'].append(dict(category))
-    
+
+# --- SAVING DATA ---    
 with open('data.json', 'w', encoding="utf-8") as file:
         json.dump(my_dict, file, indent=4, ensure_ascii=False)

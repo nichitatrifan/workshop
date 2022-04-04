@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <style>
+        ul {
+            list-style: none;
+        }
+
+        ul li::before {
+            content: "";
+            background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/fb-heart.gif);
+            background-size: contain;
+            display: inline-block;
+            width: 1em;
+            height: 1em;
+            position: relative;
+            top: 0.1rem;
+            margin-right: 0.2rem;
+            }
+    </style>
+    
+    <h1 id="main-heading">Hello Learners!</h1>
+    <h2>Can you parse me?</h2>
+    
+    <div class="container">
+        <p>We use different ways to parse.</p>
+    </div>
+
+    <ul class="list">
+        
+        <li id="num-1" class="list-element">
+            <span> can extract as 'soup' attribute 'soup.tag' </span>
+        </li>
+
+        <li id="num-2" class="list-element">
+            <span> can use 'soupobj.string' or 'soupobj.tex' to extract text </span>
+        </li>
+
+        <li id="num-3" class="list-element">
+            <a href="https://github.com/"> to get an attribute of a tag use 'soupobj['attr_name']'</a>
+        </li>
+
+        <li id="num-4" class="list-element">
+            <p>Main methods are: soup.find(), soup.find_all(), soup.select(), soup.select_one()</p>
+        </li>
+
+    </ul>
+
+</body>
+</html>
