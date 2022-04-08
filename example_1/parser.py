@@ -1,6 +1,4 @@
-import lxml
 from bs4 import BeautifulSoup
-
 
 # --- READING HTML FILE ---
 with open('page_example.html', 'r') as  html_file:
